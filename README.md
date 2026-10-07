@@ -1,4 +1,4 @@
-Contact: Thomas Johnson thjohnson@microsoft.com
+Contact: santoshkumar.lingala@gilead.com
 
 # Scientific workflow GitHub workshop
 
